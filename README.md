@@ -98,7 +98,7 @@
 
 | Name                 | A short summary                              | Install   | Status |
 | -------------------- | -------------------------------------------- | --------- | --------- |
-| [SQL2NoSQL](https://github.com/alexandresanlim/sql2nosql) | Migrate data from SQL to NoSQL easily  | ![](https://img.shields.io/pypi/v/sql2nosql) | ![](https://img.shields.io/pypi/status/sql2nosql) |
+| [SQL2NoSQL](https://github.com/facundopadilla/sql2nosql) | Migrate data from SQL to NoSQL easily  | ![](https://img.shields.io/pypi/v/sql2nosql) | ![](https://img.shields.io/pypi/status/sql2nosql) |
 <!-- | Content Cell         | Content Cell                                | link | link | -->
   
 </details>
