@@ -41,9 +41,6 @@
 </details>-->
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:facundo.padilla@outlook.com'>facundo.padilla@outlook.com</a>
-</p>
-<p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/facundopadilla/facundopadilla"></a>
 </p>
 
