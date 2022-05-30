@@ -72,9 +72,13 @@
 <img align="right" src="https://img.shields.io/badge/Docker-3498DB?logo=docker&logoColor=white" />
 
 
-- 👨‍💻 **Python Developer**\
-📆 2021 - moment\
+- 👨‍💻 **Python Developer SSR**\
+📆 2021 - 2022\
 📍 **Blimop** - Jujuy, Argentina
+
+- 👨‍💻 **Python Developer**\
+📆 2022 - at the moment\
+📍 **Banza** - Buenos Aires, Argentina
 
 ## Technical information
 
