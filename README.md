@@ -55,7 +55,7 @@
 📍 **Escuela de Educacion Tecnica N 3117 - Daniel O. Reyes** - Salta, Argentina
 
 - 📖 **University**\
-📆 2019 - moment\
+📆 2019 - 2021\
 📍 **Universidad Catolica de Salta** - Salta, Argentina
 
 
@@ -74,11 +74,21 @@
 
 - 👨‍💻 **Python Developer SSR**\
 📆 2021 - 2022\
-📍 **Blimop** - Jujuy, Argentina
+📍 **Blimop** - Jujuy, Argentina - https://blimop.tech/
+  
+<img align="right" src="https://img.shields.io/badge/Python-3498DB?logo=python&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/FastAPI-181717?logo=fastapi&logoColor=green" />
+<img align="right" src="https://img.shields.io/badge/Teams-4A154B?logo=microsoft&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Bitbucket-181717?logo=bitbucket&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Pycharm-181717?logo=pycharm&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/MySQL-3498DB?logo=mysql&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Docker-3498DB?logo=docker&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/AWS-E34F26?logo=amazon&logoColor=white" />  
+  
 
 - 👨‍💻 **Python Developer**\
 📆 2022 - at the moment\
-📍 **Banza** - Buenos Aires, Argentina
+📍 **Banza** - Buenos Aires, Argentina - https://banza.com.ar/
 
 ## Technical information
 
