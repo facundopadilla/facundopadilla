@@ -14,9 +14,6 @@
   <a href="https://www.linkedin.com/in/facundopadilla/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https:/https://t.me/facundopadilla">
-    <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
   
 </p>
 
@@ -49,32 +46,30 @@
 
 
 ## Education
+  
+- 📖 **University**\
+📆 2019 - 2021\
+📍 **Universidad Catolica de Salta** - Salta, Argentina
 
 - 📖 **High school**\
 📆 2013 - 2018\
 📍 **Escuela de Educacion Tecnica N 3117 - Daniel O. Reyes** - Salta, Argentina
 
-- 📖 **University**\
-📆 2019 - 2021\
-📍 **Universidad Catolica de Salta** - Salta, Argentina
-
 
 ## Experience
 
 <img align="right" src="https://img.shields.io/badge/Python-3498DB?logo=python&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Flask-181717?logo=flask&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Fastapi-181717?logo=fastapi&logoColor=green" />
 <img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Java-E34F26?logo=java&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/GitLab-181717?logo=gitlab&logoColor=orange" />
 <img align="right" src="https://img.shields.io/badge/Pycharm-181717?logo=pycharm&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/MySQL-3498DB?logo=mysql&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/PostgreSQL-3498DB?logo=postgresql&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Linux-181717?logo=linux&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Docker-3498DB?logo=docker&logoColor=white" />
-
-
-- 👨‍💻 **Python Developer SSR**\
-📆 2021 - 2022\
-📍 **Blimop** - Jujuy, Argentina - https://blimop.tech/
+  
+- 👨‍💻 **Software Engineer SSR**\
+📆 December, 2022 - at the moment\
+📍 **Santander Tecnología** - Buenos Aires, Argentina - [https://santander.com.ar/](https://www.santander.com.ar/)
   
 <img align="right" src="https://img.shields.io/badge/Python-3498DB?logo=python&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/FastAPI-181717?logo=fastapi&logoColor=green" />
@@ -85,10 +80,23 @@
 <img align="right" src="https://img.shields.io/badge/Docker-3498DB?logo=docker&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/AWS-E34F26?logo=amazon&logoColor=white" />  
   
-
-- 👨‍💻 **Python Developer**\
-📆 2022 - at the moment\
+- 👨‍💻 **Python Developer SSR**\
+📆 March, 2022 - October, 2022\
 📍 **Banza** - Buenos Aires, Argentina - https://banza.com.ar/
+  
+<img align="right" src="https://img.shields.io/badge/Python-3498DB?logo=python&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Flask-181717?logo=flask&logoColor=green" />
+<img align="right" src="https://img.shields.io/badge/Mattermost-4A154B?logo=mattermost&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/GitLab-181717?logo=gitlab&logoColor=orange" />
+<img align="right" src="https://img.shields.io/badge/Pycharm-181717?logo=pycharm&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/MySQL-3498DB?logo=mysql&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Docker-3498DB?logo=docker&logoColor=white" />
+  
+- 👨‍💻 **Python Developer SSR**\
+📆 2021 - 2022\
+📍 **Blimop** - Jujuy, Argentina - https://blimop.tech/
+  
+
 
 ## Technical information
 
@@ -98,6 +106,9 @@
 <img align="right" src="https://img.shields.io/badge/LinuxMint-5ED72A?logo=linuxmint&logoColor=white" />
 
 **Operating Systems**
+
+
+## Technical information
 
 
 </details>
