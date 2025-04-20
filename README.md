@@ -186,9 +186,9 @@ Group work in the final instance of the programming olympiad held at INET in 201
 I like to share relevant information that helps others, so I have a section where I share notes, tutorials, and things I discovered and/or learned during my programming career 👽
 
 ## 📚 Knowledge Base
-- 🔗 [Pre-commit - Create your own local hook](https://www.notion.so/Pre-commit-Cre-tu-propio-hook-local-14962e8070a08094ad6cc2d06642524f?pvs=21)
-- 🔗 [SQLModel for large applications (WIP)](https://www.notion.so/SQLModel-para-grandes-aplicaciones-WIP-86f87edb37fc43b6bf2813c3df09cebf?pvs=21)
-- 🔗 [AWS - My day to day with the cloud (WIP)](https://www.notion.so/AWS-Mi-d-a-a-d-a-con-el-cloud-WIP-13a62e8070a0808aa9b7ce95e40ca83b?pvs=21)
+- 🔗 [Pre-commit - Create your own local hook](https://facundopadilla.notion.site/Pre-commit-Cre-tu-propio-hook-local-14962e8070a08094ad6cc2d06642524f?pvs=25)
+- 🔗 [SQLModel for large applications (WIP)](https://facundopadilla.notion.site/SQLModel-para-grandes-aplicaciones-WIP-86f87edb37fc43b6bf2813c3df09cebf?pvs=21)
+- 🔗 [AWS - My day to day with the cloud (WIP)](https://facundopadilla.notion.site/AWS-Mi-d-a-a-d-a-con-el-cloud-WIP-13a62e8070a0808aa9b7ce95e40ca83b?pvs=21)
   
 </details>
 
