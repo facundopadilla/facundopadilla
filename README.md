@@ -1,20 +1,24 @@
-
 <h1 align='center'>
-  Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30"> I'm Facundo 👨‍💻
+  ✨ Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30"> I'm Facundo Padilla ✨
 </h1>
 
 <p align='center'>
-  A backend developer from Salta, Argentina.
+  Software Engineer from Salta, Argentina 🚀
+</p>
+<p align='center'>
+  My website: https://facundopadilla.com/
 </p>
 
-
-
 <p align='center'>
-  
   <a href="https://www.linkedin.com/in/facundopadilla/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  
+  <a href="https://github.com/facundopadilla">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.udemy.com/user/facundo-padilla/">
+    <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" />
+  </a>
 </p>
 
 <p align='center'>
@@ -22,121 +26,182 @@
 </p>
 
 <p align='center'>
-  💻 My workspace<br/><br/>
-  <img src="https://img.shields.io/badge/ubuntu-orange.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/amd-ryzen%202200g%20-red.svg?&style=for-the-badge&logo=amd&logoColor=white" />
+  💻 My Workspace 💻<br/><br/>
+  <img src="https://img.shields.io/badge/Lenovo-Legion%205-E2231A?style=for-the-badge&logo=lenovo&logoColor=white" />
+  <img src="https://img.shields.io/badge/amd-ryzen%205%205600-red.svg?&style=for-the-badge&logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/RTX-3060-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Windows%2011-0078D4?style=for-the-badge&logo=windows11&logoColor=white" />
+</p>
+<p align='center'>
+  <img src="https://img.shields.io/badge/Apple-MacBook%20Air%20M2-%23000000.svg?&style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/nvidia-gtx%201050-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSD-512GB-%23FFBB00.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/macOS-Sequoia-%23000000.svg?&style=for-the-badge&logo=apple&logoColor=white" />
 </p>
 
 <p align='center'>
-  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
+  ⭐ Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
 </p>
-
-<!-- <details align='center'>
-  <summary>:zap: My workspace specs</summary>
-</details>-->
 
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/facundopadilla/facundopadilla"></a>
 </p>
 
 <details>
-  <summary>📃 Resume</summary>
+  <summary>📃 Professional Experience & Education</summary>
 
-
-## Education
+## 🎓 Education
   
-- 📖 **University**\
-📆 2019 - 2021\
-📍 **Universidad Catolica de Salta** - Salta, Argentina
-
-- 📖 **High school**\
+- 📖 **Professional and Personal Computer Technician**\
 📆 2013 - 2018\
-📍 **Escuela de Educacion Tecnica N 3117 - Daniel O. Reyes** - Salta, Argentina
+📍 **E.E.T. N° 3117 - Daniel O. Reyes** - Salta, Argentina
+  - 🏅 Outstanding student at the National Institute of Technological Education
+  - 🏅 Honor medal at the National Science Fair in Córdoba
+  - 🥇 First place at the Science Fair in ONIET in Córdoba
+  - 🎖 Recognition from the Ministry of Education of Salta Province
 
+## 👨‍💻 Professional Experience
 
-## Experience
-
-<img align="right" src="https://img.shields.io/badge/Python-3498DB?logo=python&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Fastapi-181717?logo=fastapi&logoColor=green" />
-<img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/GitLab-181717?logo=gitlab&logoColor=orange" />
-<img align="right" src="https://img.shields.io/badge/Pycharm-181717?logo=pycharm&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/PostgreSQL-3498DB?logo=postgresql&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Linux-181717?logo=linux&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Docker-3498DB?logo=docker&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white" />
   
-- 👨‍💻 **Software Engineer SSR**\
-📆 December, 2022 - at the moment\
-📍 **Santander Tecnología** - Buenos Aires, Argentina - [https://santander.com.ar/](https://www.santander.com.ar/)
+- 👨‍💻 **SSR Software Engineer**\
+📆 12/2022 - Present\
+📍 **Santander Tecnología Argentina**
+  - 🔧 Development of microservices with FastAPI that integrate with applications like SonarQube and GitLab for quality control and monitoring of +1,000 projects
+  - ✨ "Magic buttons": one-click execution of Cypress, Selenium, Newman automated tests, and K6 performance tests
+  - 🎤 Talks and workshops on testing and development best practices
+  - 👩‍💻 Mentor at "Club Chicas Programadoras"
+  - 🌎 Collaborated on a corporate application for Santander Spain with developers from Brazil
+
+<img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
+
+- 👨‍💻 **Consultant and Developer**\
+📆 06/2023 - 09/2023\
+📍 **HealthyTek SpA** - Santiago, Chile
+  - 🔄 Freelance work (contractor mode)
+  - 🐛 Bug fixing, component refactoring, production deployments and process documentation
+  - 🛠️ Projects primarily built with Flask, Django, and other technologies like HTML, CSS, JavaScript, Firebase, and Azure
+
+<img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   
-<img align="right" src="https://img.shields.io/badge/Python-3498DB?logo=python&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/FastAPI-181717?logo=fastapi&logoColor=green" />
-<img align="right" src="https://img.shields.io/badge/Teams-4A154B?logo=microsoft&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Bitbucket-181717?logo=bitbucket&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Pycharm-181717?logo=pycharm&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/MySQL-3498DB?logo=mysql&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Docker-3498DB?logo=docker&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/AWS-E34F26?logo=amazon&logoColor=white" />  
+- 👨‍💻 **SSR Python Developer**\
+📆 03/2022 - 12/2022\
+📍 **Banza** - Buenos Aires, Argentina
+  - 🔄 Started "reinvention" of the product from scratch, working collaboratively with all teams
+  - 💸 Led development and integration of the "MEP Dollar at one click" button
+  - ☁️ Technologies: AWS (Cognito, DynamoDB, Lambda, SQS), FastAPI, MySQL, Docker
+
+<img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" />
   
-- 👨‍💻 **Python Developer SSR**\
-📆 March, 2022 - October, 2022\
-📍 **Banza** - Buenos Aires, Argentina - https://banza.com.ar/
+- 👨‍💻 **SSR Python Developer**\
+📆 09/2021 - 03/2022\
+📍 **Blimop** - San Salvador de Jujuy, Argentina
+  - 🔄 Led migration of microservices from SpringBoot to Python
+  - 💬 Integrated ChatAPI in Beplic application to replace WhatsApp scraping VMs with webhooks
+  - 👨‍🏫 Conducted training workshop "Building my future" for university graduates
+
+<img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
   
-<img align="right" src="https://img.shields.io/badge/Python-3498DB?logo=python&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Flask-181717?logo=flask&logoColor=green" />
-<img align="right" src="https://img.shields.io/badge/Mattermost-4A154B?logo=mattermost&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/GitLab-181717?logo=gitlab&logoColor=orange" />
-<img align="right" src="https://img.shields.io/badge/Pycharm-181717?logo=pycharm&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/MySQL-3498DB?logo=mysql&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Docker-3498DB?logo=docker&logoColor=white" />
-  
-- 👨‍💻 **Python Developer SSR**\
-📆 2021 - 2022\
-📍 **Blimop** - Jujuy, Argentina - https://blimop.tech/
-  
+- 👨‍💻 **Python Developer**\
+📆 02/2021 - 09/2021\
+📍 **Blimop** - San Salvador de Jujuy, Argentina
+  - 💼 Worked in staffing mode for a telecommunications client from Uruguay
+  - 🔧 Added features to a web system developed in Flask
+  - 🔄 Migrated code from Python 2.7 to Python 3.6
 
-
-## Technical information
-
-<img align="right" src="https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/LinuxMint-5ED72A?logo=linuxmint&logoColor=white" />
-
-**Operating Systems**
-
-
-## Technical information
-
+## 📚 Certifications & Courses
+- ✅ Scrum Professional Course - Platzi (06/2024)
+- ✅ Scrum Foundation Professional Certification - SFPC™ (06/2024)
+- ✅ Blockchain Course - UBP (09/2023)
+- ✅ Code quality management with SonarQube - Udemy (01/2023)
+- ✅ Professional Software Architecture Course - Platzi (09/2022)
+- ✅ Software Architecture Fundamentals - Platzi (08/2022)
+- ✅ Docker Course, beginner to expert - Udemy (01/2021)
+- ✅ Cloud Computing Course - Google (12/2018)
+- ✅ My first company - BBVA (11/2017)
 
 </details>
 
 <details>
-  <summary>📦 Packages</summary>
-  
-  
+  <summary>🛠️ Technical Skills</summary>
 
-| Name                 | A short summary                              | Install   | Status |
-| -------------------- | -------------------------------------------- | --------- | --------- |
-| [SQL2NoSQL](https://github.com/facundopadilla/sql2nosql) | Migrate data from SQL to NoSQL easily  | ![](https://img.shields.io/pypi/v/sql2nosql) | ![](https://img.shields.io/pypi/status/sql2nosql) |
-<!-- | Content Cell         | Content Cell                                | link | link | -->
+## 💻 Programming & Frameworks
+- **🐍 Python**: FastAPI, Django, Flask
+- **🧪 Testing**: Unit, functional, integration, E2E, performance (K6), automated (Playwright), TDD, BDD (Behave)
+- **🔧 Other technologies**: 
+  - Bash, PowerShell, HTML, CSS, JavaScript
+  - Selenium, Postman, RESTful APIs
+  - Microservices, monorepos, design patterns
+  - SOLID, clean architecture, OpenAPI, SwaggerUI, pre-commit
+
+## ☁️ Infrastructure & Tools
+- **🗄️ DBMS**: MySQL, PostgreSQL
+- **🔍 SAST**: SonarQube
+- **🖥️ OS**: Ubuntu, Fedora
+- **🔄 SCM & CI/CD**: GitLab, GitHub, Docker
+- **☁️ PaaS**: OpenShift (client-use)
+- **☁️ Cloud**: Amazon Web Services, Heroku, PythonAnywhere
+
+## 🌟 Soft Skills
+- **🌐 English**: A2 level
+- **🔄 Agile methodologies**: SCRUM and Agile
+
+</details>
+
+<details>
+  <summary>🚀 Projects & Portfolio</summary>
+  
+## 🤖 Chatbot with Google DialogFlow and Telegram (2022)
+This project was presented as a final project for "Building my future" students in Jujuy and at the Technology Fair of the Municipality of Salta (attended by more than 100 people!).
+- 🔄 Uses FastAPI framework to create webhooks that transmit messages received by a Telegram bot and sent to DialogFlow for processing
+- ☁️ Deployed on Heroku for 24/7 bot operation
+- **👉 More info**: [fastapi-dialogflow-telegram-bot](https://github.com/facundopadilla/fastapi-dialogflow-telegram-bot)
+
+## 🏕 INET 2018 - Feedlot system with Arduino
+Group work in the final instance of the programming olympiad held at INET in 2018 for computer science students.
+- 📊 Dashboard for visualizing data and controlling Arduino components to simulate feedlot automation on a smaller scale
+- 🛠️ Technologies: MySQL, PHP, Arduino
+- 🎬 I appear on the cover of the award video: [YouTube](https://www.youtube.com/watch?v=oz1-ne1y-_Y&pp=ygUVaW5ldCAyMDE4IGluZm9ybWF0aWNh)
   
 </details>
+
+<details>
+  <summary>📝 Tutorials & Documentation</summary>
   
+I like to share relevant information that helps others, so I have a section where I share notes, tutorials, and things I discovered and/or learned during my programming career 👽
 
-<!--
-**facundopadilla/facundopadilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📚 Knowledge Base
+- 🔗 [Pre-commit - Create your own local hook](https://www.notion.so/Pre-commit-Cre-tu-propio-hook-local-14962e8070a08094ad6cc2d06642524f?pvs=21)
+- 🔗 [SQLModel for large applications (WIP)](https://www.notion.so/SQLModel-para-grandes-aplicaciones-WIP-86f87edb37fc43b6bf2813c3df09cebf?pvs=21)
+- 🔗 [AWS - My day to day with the cloud (WIP)](https://www.notion.so/AWS-Mi-d-a-a-d-a-con-el-cloud-WIP-13a62e8070a0808aa9b7ce95e40ca83b?pvs=21)
+  
+</details>
 
-Here are some ideas to get you started:
+<details>
+  <summary>📬 Get In Touch</summary>
+  
+## 📱 Contact Information
+- 💼 [LinkedIn](https://www.linkedin.com/in/facundopadilla/)
+- 💻 [GitHub](https://github.com/facundopadilla)
+- 🎓 [Udemy](https://www.udemy.com/user/facundo-padilla/)
+  
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/Thanks%20for%20visiting-FF6B6B?style=for-the-badge" alt="Thanks for visiting">
+</p>
